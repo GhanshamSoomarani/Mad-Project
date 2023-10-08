@@ -1,8 +1,8 @@
-                                                # Mad-Project
-                                               # CAMPUS_CONNECT
-                                         #REPORT (BY:20sw081 & 20sw101)
+    # CAMPUS_CONNECT
+# REPORT (BY:20sw081 & 20sw101)
 
-#INTRODUCTION:
+
+INTRODUCTION:
 The MUET University Class Notification and Student Chat Application “CAMPUS CONECT” is a sophisticated mobile platform designed to optimize communication and class management within the academic community of Mehran University of Engineering and Technology (MUET). This innovative application targets both teachers and students, aiming to enrich the educational experience.
 PROBLEM SATEMENT:
 The problem of inefficient class management and communication within the academic community of Mehran University of Engineering and Technology (MUET) is identified.
@@ -17,6 +17,8 @@ The problem of inefficient class management and communication within the academi
    - Lack of a centralized system for efficiently notifying students about important updates, announcements, and academic schedules.
 PROPOSED SOLUTION:
 The proposed solution outlines the features and benefits of the "CAMPUS CONNECT" application for both students and educators at Mehran University of Engineering and Technology (MUET).
+
+
 FEATURES:
 
 1.	User-Friendly Interface
@@ -53,35 +55,35 @@ FEATURES:
 •	Equips educators with tools to efficiently manage classes, including attendance data uploads and notifications.
 •	Reduces administrative burdens, allowing educators to focus on delivering quality education.
 UI 
-TEACHERS’ SCREEN and STUDENTS' SCREEN
-
-![WhatsApp Image 2023-10-08 at 18 00 59_46a9ece7](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/cad0820b-7f69-4066-ae91-583e2d3e6bfd)
-
-![WhatsApp Image 2023-10-08 at 18 00 59_95939be0](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/dcc72684-fbe9-43dc-be86-5b228a136b59)
-
-![WhatsApp Image 2023-10-08 at 18 00 58_173ebf19](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/eea7b1c1-0261-4e60-bc47-a7a961fff132)
-
-![WhatsApp Image 2023-10-08 at 18 00 58_66ec57bd](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/ad6a1523-f1ef-481e-bd26-783d824cfb03)
-
-![WhatsApp Image 2023-10-08 at 18 00 57_3c4f4d01](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/b92028ca-e0f0-4753-8433-10d21dedffa1)
-
-![WhatsApp Image 2023-10-08 at 18 00 56_d65241ce](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/7ea30ed0-0bac-4042-a8dc-9eb2937be8cc)
-![WhatsApp Image 2023-10-08 at 18 00 54_bdbe2112](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/ceaf6ce1-db00-4d8f-81c8-886cbf593a0a)
-![WhatsApp Image 2023-10-08 at 18 00 54_79348786](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/15a9009b-c5ea-4252-bd0d-4bf6553e2396)
-![WhatsApp Image 2023-10-08 at 18 00 55_57b43f80](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/8ab2e07a-1d45-4be8-8315-a0f8cb9f66df)
-![WhatsApp Image 2023-10-08 at 18 00 55_5b4c303a](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/46e8cde5-05c2-497c-99a6-b4de56be2f24)
-
-
-IFIREBASE INTEGRATION
-AUTHENTICATION:
-![WhatsApp Image 2023-10-08 at 18 01 01_a922a81a](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/b3731701-14fc-4e81-9cb4-21e0dc9c2876)
-![WhatsApp Image 2023-10-08 at 18 01 00_df1f78e2](https://github.com/GhanshamSoomarani/Mad-Project/assets/90304613/62721294-f187-4951-9e43-9e523386acf8)
-TECHNOLOGIES USED
+ 
+ <div align="center">
+  <img src="/assets/images/login.jpg" alt="Student Schedule" width="250" />
+  <img src="/assets/images/failedlogin.jpg" alt="Attendance" width="250" />
+  <img src="/assets/images/studenthome.jpgimages/" alt="Chat" width="250" />
+</div>
+<div align="center">
+  <img src="/assets/images/chat.jpg" alt="Student Schedule1" width="250" />
+  <img src="/assets/images/calender.jpg" alt="Attendance1" width="250" />
+  <img src="/assets/images/clock.jpg" alt="Chat1" width="250" />
+</div>
+<div align="center">
+  <img src="/assets/images/teacherhome.jpg" alt="Student Schedule" width="250" />
+  <img src="/assets/images/drawers.jpg" alt="Attendance" width="250" />
+  <img src="/assets/images/drawert.jpg" alt="Chat" width="250" />
+</div>
+<div align="center">
+  <img src="/assets/images/datapresent.jpg" alt="Student Schedule" width="250" />
+  <img src="/assets/images/markattendance.jpg" alt="Attendance" width="250" />
+  <img src="/assets/images/absent.jpg" alt="Chat" width="250" />
+</div>
+# TECHNOLOGIES USED
 CAMPUS CONNECT is powered by cutting-edge technologies to ensure a seamless and secure experience: 
 • Flutter: A cross-platform framework for building natively compiled applications.
 • Firebase: A comprehensive platform for mobile and web app development, including user authentication and real-time database functionality.
 • Cloud Firestore: A NoSQL cloud database for storing and syncing data.
  
 • Firebase Storage: Securely store and retrieve user-uploaded images.
-ERRORS WE ENCOUNTERED DURING THE DEVELOPMENT
-
+<div align="center">
+  <img src="/assets/images/collections.jpg" alt="Student Schedule" width="250" />
+  <img src="/assets/images/firebase.jpg" alt="Attendance" width="250" />
+</div>
